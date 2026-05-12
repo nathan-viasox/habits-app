@@ -1,4 +1,4 @@
-# Habits — Mobile App
+# Habit Tracker — Mobile App
 
 A cross-platform habit tracking app built with Expo and React Native, following Nick's mobile development course.
 
